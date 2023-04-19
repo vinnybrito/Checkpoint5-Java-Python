@@ -1,0 +1,5 @@
+Vinicius
+Mouse, 1.0, 25.0
+Teclado, 2.0, 75.0
+Monitor, 1.0, 350.0
+
